@@ -1,39 +1,44 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi, I'm Farag 👋</h1>
-<p align="center"><b>AI & Full-Stack Developer (Node.js • React • Python)</b></p>
+<p align="center"><b>Data Analyst & Data Science Practitioner</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20VoiceBots-blue" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-success" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis%20%7C%20BI%20%7C%20ML-blue" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Tableau-success" />
 </p>
 
 ---
 
-### 🚀 About me
-- I build products that blend **web** and **AI**.
-- Interested in **Computer Vision**, **NLP**, and **Voice Assistants**.
-- I enjoy clean code, readable docs, and shipping real features.
+### 👨‍💻 About me
+- I turn raw data into clear insights and actionable dashboards.  
+- Strong in **EDA**, **data cleaning**, **SQL querying**, and **storytelling with data**.  
+- Practicing machine learning for classification/regression and model evaluation.
 
 ---
 
-### 🌟 Featured Project
-**UGuide – Smart Tourism Assistant**  
-Full-stack (Node.js + React) with AI:
-DenseNet image classification and a domain-restricted VoiceBot (Egyptian tourism only).  
-👉 Repo: https://github.com/farag137/UGuide-Smart-Tourism-Assistant
+### 🧰 Core Skills
+- **Python:** pandas, numpy, scipy, scikit-learn, matplotlib, plotly, seaborn  
+- **SQL:** PostgreSQL, MySQL (joins, CTEs, window functions, optimization)  
+- **BI & Viz:** Power BI, Tableau, Excel (PivotTables, Power Query)  
+- **ML:** feature engineering, cross-validation, metrics (ROC-AUC, F1, RMSE), model deployment basics  
+- **Stats:** A/B testing, hypothesis testing, confidence intervals, time series basics  
+- **Workflow:** Jupyter/VS Code, Git/GitHub, virtual environments
 
 ---
 
-### 🧰 Tech Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=061a23)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+### 📦 What I Work On
+- Building **clean data pipelines** and reproducible notebooks  
+- Designing **dashboards** and **KPIs** for business questions  
+- Writing efficient **SQL** for analytics and reporting  
+- Training and evaluating **ML models** with clear documentation
+
+---
+
+### 📚 Currently Learning
+- Time series forecasting  
+- Advanced feature selection & model interpretation (SHAP)  
+- Cloud analytics workflows (BigQuery/AWS)
 
 ---
 
@@ -43,5 +48,5 @@ DenseNet image classification and a domain-restricted VoiceBot (Egyptian tourism
 
 ---
 
-### 📫 Contact
-Prefer issues/PRs on my repos.
+### 🤝 Contact
+Open an issue on any of my repositories and I’ll get back to you.
