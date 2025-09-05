@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi, I'm Farag 👋</h1>
+<h1 align="center">Hi, I'm Farraag 👋</h1>
 <p align="center"><b>Data Analyst & Data Science Practitioner</b></p>
 
 <p align="center">
